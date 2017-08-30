@@ -8,3 +8,4 @@ creating a new branch is fast  and simple
 creating a new branch is fast and simple
 >>>>>>> feature1
 add new thing
+git is a free software
